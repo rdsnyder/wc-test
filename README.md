@@ -14,6 +14,7 @@ Hydrangea quercifolia, commonly known as oakleaf hydrangea or <span data-click-i
 
 <param ve-image label="Oakleaf" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/3/36/Flower_cluster_of_Hydrangea_quercifolia.jpg">
 <param ve-image label="Apollo and Daphne" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/a/ab/Apollo_and_Daphne_%28Bernini%29_%28cropped%29.jpg">
+<param ve-image label="Apollo and Daphne" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Tanguar_haor%2C_Bangladesh_01.jpg">
 
 Its specific epithet combines the Latin words quercus ("oak"), and folium ("leaf"). However, it is not closely related to oak species (Quercus).
 

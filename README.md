@@ -11,9 +11,12 @@
 # Oakleaf Hydrangea
 
 Hydrangea quercifolia, commonly known as oakleaf hydrangea or <span data-click-image-zoomto="2929,2317,387,449">oak-leaved hydrangea</span>, is a species of flowering plant in the family Hydrangeaceae.[2] It is native to the southeastern United States, in woodland habitats from North Carolina west to Tennessee, and south to Florida and Louisiana.[3] A deciduous shrub with white showy flower heads, it is grown as a garden plant, with numerous cultivars available commercially.
-<param ve-image label="Apollo and Daphne" url="https://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=cache/ab49f7af95aa31a591eaad4aa7fefc5a.tif/info.json">
-
-Its specific epithet combines the Latin words quercus ("oak"), and folium ("leaf"). However, it is not closely related to oak species (Quercus).
+<param ve-image
+       url="https://upload.wikimedia.org/wikipedia/commons/a/ab/Apollo_and_Daphne_%28Bernini%29_%28cropped%29.jpg"
+       label="Apollo and Daphne"
+       description="sculpture by Gian Lorenzo Bernini"
+       license="Creative Commons"
+       fit="contain">
 
 ## Description
 
